@@ -44,7 +44,7 @@ I made this template as a learning exercise while building my own personal websi
 
 1. Cut it & paste it at the bottom of the page, just above <script>
 
-2. Replace the <header> tags with <footer> tags. (You will also need to rename the header element to footer in style.css)
+2. Replace the header tags with footer tags. (You will also need to rename the header element to footer in style.css)
 (Bulb will be below your content, but still appears in the top corner while the page is empty.)
 
 ### Extra Step: Make text switch between black/white
