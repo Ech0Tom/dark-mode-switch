@@ -1,0 +1,21 @@
+header {
+        display: flex;
+        justify-content: flex-start;
+        padding: 10px;
+}
+
+.switch {
+
+        height: 40px;
+        width: 40px;
+        border-radius: 5px;
+}
+
+.dark {
+        background-color: rgb(26, 26, 26);
+        transition: 0.3s;
+}
+
+.dark>* {
+        color: rgb(255, 255, 255);
+}
